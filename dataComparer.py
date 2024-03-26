@@ -11,7 +11,6 @@ row = sheet.max_row
 column = sheet.max_column 
 
 for i in range(1, row + 1): 
-
     item1 = sheet.cell(row=i, column=2).value
     net_sales1 = sheet.cell(row=i, column=3).value
     percent1 = sheet.cell(row=i, column=4).value         
