@@ -1,4 +1,3 @@
-
 # program that takes collated data and produces percentage change figures
 # based on another set of data
 
