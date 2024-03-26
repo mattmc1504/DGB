@@ -40,7 +40,3 @@ for i in range(1, row + 1):
     
 filters = sheet2.auto_filter
 filters.ref = "B2:D1000"
-
-wb.save (path)
-
-
