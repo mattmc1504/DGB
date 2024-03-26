@@ -42,7 +42,5 @@ filters = sheet2.auto_filter
 filters.ref = "B2:D1000"
 
 wb.save (path)
-    
-print("")
 
 
